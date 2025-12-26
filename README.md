@@ -136,7 +136,7 @@ For detailed API documentation and endpoints, refer to the [API Documentation](/
 
 1. Set up a MongoDB database and obtain the connection URL.
 2. Create a `.env` file in the root directory with the following environment variables:
-   ```
+   
 MONGODB_URI=<your-mongodb-connection-url>
 JWT_SECRET=<your-jwt-secret>
 
@@ -146,7 +146,7 @@ MAIL_PORT=587
 MAIL_USER=<your-brevo-smtp-login>
 MAIL_PASSWORD=<your-brevo-smtp-key>
 
-   ```
+   
 
 ## Usage
 
